@@ -120,10 +120,9 @@ font-family: 'Roboto', sans-serif;
     }
 
 .section-three { background: var(--cloud, #F4F4FD);}
-.section-three-item {
-    background:#FFFFFF;
-}
 
+.section-three-item {
+    background: var(--white, #FFF); }
 .title-section-three {
 color: var(--navyblue, #2E2F42);
     text-align: center;
@@ -134,6 +133,7 @@ color: var(--navyblue, #2E2F42);
     line-height: 1.2;
     /* 120% */
     letter-spacing: 0.02em;
+
     
 }
 .section-three-text {
