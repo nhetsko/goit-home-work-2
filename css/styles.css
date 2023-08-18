@@ -116,10 +116,13 @@ font-family: 'Roboto', sans-serif;
         /* 111.111% */
         letter-spacing: 0.02em;
         text-transform: capitalize;
-        background-color: #FFFFFF;
+    
     }
 
-.section-three { background-color: #FFFFFF;}
+.section-three { background: var(--cloud, #F4F4FD);}
+.section-three-list {
+    background: #FFF;
+}
 
 .title-section-three {
 color: var(--navyblue, #2E2F42);
