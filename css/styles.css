@@ -51,7 +51,9 @@ font-family: 'Roboto', sans-serif;
     .menu-link:focus, .menu-link:hover {
       color:#404BBF ;  
     }
-
+.address-list {
+    font-style: normal
+}
 .address-link {color: var(--slate, #434455);
         /* Body */
         font-family: 'Roboto', sans-serif;
@@ -110,6 +112,9 @@ font-family: 'Roboto', sans-serif;
         /* 111.111% */
         letter-spacing: 0.02em;
         text-transform: capitalize;
+}
+.section-three-list {
+    background-color: #FFFFFF
 }
 .title-section-three {
 color: var(--navyblue, #2E2F42);
