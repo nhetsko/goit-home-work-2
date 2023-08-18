@@ -120,7 +120,7 @@ font-family: 'Roboto', sans-serif;
     }
 
 .section-three { background: var(--cloud, #F4F4FD);}
-.section-three-list {
+.section-three-item {
     background:#FFFFFF;
 }
 
