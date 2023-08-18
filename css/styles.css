@@ -51,13 +51,17 @@ font-family: 'Roboto', sans-serif;
     .menu-link:focus, .menu-link:hover {
       color:#404BBF ;  
     }
+    .page-address {
+        font-style: normal;}
+        
 .address-list {
-    font-style: normal;
+    font-style:normal;
 }
 .address-link {color: var(--slate, #434455);
         /* Body */
         font-family: 'Roboto', sans-serif;
         font-size: 16px;
+        font-style: normal;
         font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;}
@@ -113,8 +117,10 @@ font-family: 'Roboto', sans-serif;
         text-transform: capitalize;
 }
 .section-three {
-    background-color: #FFFFFF
-}
+    background-color: #FFFFFF;}
+
+.section-three-list { background-color: #FFFFFF;
+    }
 .title-section-three {
 color: var(--navyblue, #2E2F42);
     text-align: center;
