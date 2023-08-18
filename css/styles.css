@@ -52,7 +52,7 @@ font-family: 'Roboto', sans-serif;
       color:#404BBF ;  
     }
 .address-list {
-    font-style: normal
+    font-style: normal;
 }
 .address-link {color: var(--slate, #434455);
         /* Body */
@@ -87,7 +87,7 @@ font-family: 'Roboto', sans-serif;
         letter-spacing: 0.02em;
 }
 .section-two {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 .section-two-text {
     color: var(--slate, #434455);
